@@ -19,6 +19,10 @@
   width: 100%;
 }
 
+.avatar {
+
+}
+
 .board {
   margin: 0 auto;
   padding-bottom: 5em;
@@ -109,4 +113,8 @@
 
 .w-100 {
   width: 100%;
+}
+
+.paddingXD{
+  padding: 3em;
 }
